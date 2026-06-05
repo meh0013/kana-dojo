@@ -347,7 +347,6 @@
     "mainColor": "oklch(50.0% 0.145 30.0 / 1)",
     "secondaryColor": "oklch(40.0% 0.110 250.0 / 1)"
   },
-  [
   {
     "id": "night-market",
     "backgroundColor": "oklch(16.0% 0.035 35.0 / 1)",
@@ -713,6 +712,12 @@
     "backgroundColor": "oklch(96.0% 0.015 210.0 / 1)",
     "mainColor": "oklch(55.0% 0.185 200.0 / 1)",
     "secondaryColor": "oklch(60.0% 0.155 25.0 / 1)"
+  },
+  {
+    "id": "seaside-udon",
+    "backgroundColor": "oklch(92.0% 0.015 210.0 / 1)",
+    "mainColor": "oklch(60.0% 0.130 215.0 / 1)",
+    "secondaryColor": "oklch(85.0% 0.155 95.0 / 1)"
   },
   {
     "id": "shinkansen-speed",
