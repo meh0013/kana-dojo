@@ -196,20 +196,21 @@
     "correctIndex": 0
   },
   {
-  "question": "What is the Japanese term for a hot spring? (Community variation 42)",
-  "difficulty": "easy",
-  "answers": ["Onsen", "Sentou", "Ryokan", "Izakaya"],
-  "correctIndex": 0
+    "question": "What is the Japanese term for a hot spring? (Community variation 42)",
+    "difficulty": "easy",
+    "answers": ["Onsen", "Sentou", "Ryokan", "Izakaya"],
+    "correctIndex": 0
   },
   {
-  "question": "What is the main ingredient in miso? (Community variation 56)",
-  "difficulty": "easy",
-  "answers": [
-    "Fermented soybeans",
-    "Rice flour",
-    "Buckwheat",
-    "Seaweed"
-  ],
-  "correctIndex": 0
-}
+    "question": "What is the main ingredient in miso? (Community variation 56)",
+    "difficulty": "easy",
+    "answers": ["Fermented soybeans", "Rice flour", "Buckwheat", "Seaweed"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which Japanese art form involves arranging flowers? (Community variation 43)",
+    "difficulty": "easy",
+    "answers": ["Ikebana", "Origami", "Ukiyo-e", "Shodo"],
+    "correctIndex": 0
+  }
 ]
